@@ -1,8 +1,6 @@
-#Dataset 
+# Dataset 
 
-VWCADataset location
+VWCADataset location: https://drive.google.com/drive/folders/1by9cuqS_FdZmQN69mDE304tg0HmRKx1Y?usp=sharing
 
-[https://drive.google.com/drive/folders/1by9cuqS_FdZmQN69mDE304tg0HmRKx1Y?usp=sharing]
-
-inside this folder there is VWCADataset, which contains CVE data till 2024.
+Inside this folder there is VWCADataset, which contains CVE data till 2024.
 
